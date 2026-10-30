@@ -6,7 +6,7 @@ tool step (which tool, what input, what result) before the final answer.
 
 ## Live Demo
 
-(add your Streamlit link here)
+[Click here for live demo](https://iota-agent.streamlit.app/)
 
 ## Why this project
 
